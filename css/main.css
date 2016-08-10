@@ -50,7 +50,7 @@ main {
 }
 .search_bar span {
     border: solid 1px #a9a5a5;
-    padding: 5px 6px 7px 6px;
+    padding: 6px;
     border-radius: 4px;
     color: #a9a5a5;
 }
