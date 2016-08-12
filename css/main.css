@@ -99,11 +99,11 @@ input {
 }
 .search_result ul li {
     display: inline-block;
-    margin-right: 8px;
+    margin-right: 5px;
 }
 
 .date {
-  min-width: 8%;
+  min-width: 6%;
 }
 
 .job_link {
