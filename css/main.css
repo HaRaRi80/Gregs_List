@@ -5,9 +5,8 @@
 a {
     text-decoration: none;
 }
-
 a:hover {
-  text-decoration:underline
+    text-decoration: underline
 }
 nav {
     width: 100%;
@@ -32,7 +31,6 @@ nav ul li {
     display: inline-block;
     margin-right: 20px;
 }
-
 .nav_links {
     color: purple;
     font-size: 18px;
@@ -44,7 +42,9 @@ main {
     top: 100px;
     margin-left: auto;
     margin-right: auto;
-}.search_bar {
+}
+
+.search_bar {
     margin: 0 0 40px 0;
 }
 .search_bar span {
@@ -78,9 +78,8 @@ input {
     font-weight: bold;
 }
 .pages_controls li a {
-      color: #080808;
-    }
-
+    color: #080808;
+}
 .pages_controls li:first-child {
     border-radius: 4px 0px 0px 4px;
     border: solid 1px #a9a5a5;
@@ -102,6 +101,11 @@ input {
     display: inline-block;
     margin-right: 8px;
 }
+
+.date {
+  min-width: 8%;
+}
+
 .job_link {
     font-size: 14px;
     text-decoration: none;
